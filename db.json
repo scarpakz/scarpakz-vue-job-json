@@ -1,0 +1,199 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developerzz",
+      "location": "New York, NY",
+      "type": "Full Time",
+      "salary": "$65,000 - $85,000/year",
+      "description": "Build and optimize modern user interfaces using Vue.js and Tailwind CSS.",
+      "responsibilities": [
+        "Develop responsive UI components",
+        "Implement designs using Tailwind CSS",
+        "Collaborate with backend developers",
+        "Ensure accessibility best practices",
+        "Test 5"
+      ],
+      "requirements": [
+        "Vue.js experience",
+        "HTML, CSS, JavaScript",
+        "Tailwind CSS"
+      ],
+      "company": {
+        "name": "PixelCraft Labs",
+        "description": "A creative software studio focused on building modern, user-centric web applications.",
+        "contactEmail": "careers@pixelcraftlabs.com",
+        "contactPhone": "212-555-0198"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "location": "Toronto, ON",
+      "type": "Full Time",
+      "salary": "$75,000 - $95,000/year",
+      "description": "Design and maintain scalable backend services and APIs.",
+      "responsibilities": [
+        "Build REST APIsazx",
+        "Manage databases",
+        "Optimize backend performance",
+        "asd"
+      ],
+      "requirements": [
+        "Node.js",
+        "Express",
+        "SQL/NoSQL",
+        "Fastify",
+        "qqqq"
+      ],
+      "company": {
+        "name": "CloudNova Systems",
+        "description": "CloudNova Systems delivers secure, scalable backend solutions for enterprise clients.",
+        "contactEmail": "hr@cloudnova.io",
+        "contactPhone": "416-555-0112"
+      }
+    },
+    {
+      "id": 4,
+      "type": "Full Time",
+      "title": "Full Stack Developer",
+      "location": "Calgary, AB",
+      "salary": "$85,000 - $110,000/year",
+      "description": "Develop and maintain full stack web applications.",
+      "responsibilities": [
+        "Frontend and backend development",
+        "API integration",
+        "Testing and deployment"
+      ],
+      "requirements": [
+        "Vue.js",
+        "Node.js",
+        "Git"
+      ],
+      "company": {
+        "name": "Prairie Tech Group",
+        "description": "Prairie Tech Group builds scalable software solutions for growing businesses.",
+        "contactEmail": "jobs@prairietechgroup.ca",
+        "contactPhone": "403-555-0149"
+      }
+    },
+    {
+      "id": 5,
+      "type": "Contract",
+      "title": "QA Tester",
+      "location": "Remote",
+      "salary": "$30/hr",
+      "description": "Ensure software quality through manual and automated testing.",
+      "responsibilities": [
+        "Write test cases",
+        "Perform manual testing",
+        "Report bugs"
+      ],
+      "requirements": [
+        "QA experience",
+        "Attention to detail"
+      ],
+      "company": {
+        "name": "VerifySoft Inc.",
+        "description": "VerifySoft Inc. specializes in software testing and quality assurance services.",
+        "contactEmail": "contracts@verifysoft.com",
+        "contactPhone": "800-555-0221"
+      }
+    },
+    {
+      "id": 6,
+      "type": "Full Time",
+      "title": "DevOps Engineer",
+      "location": "Montreal, QC",
+      "salary": "$90,000 - $120,000/year",
+      "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+      "responsibilities": [
+        "Manage CI/CD pipelines",
+        "Monitor systems",
+        "Cloud infrastructure management"
+      ],
+      "requirements": [
+        "AWS",
+        "Docker",
+        "Linux"
+      ],
+      "company": {
+        "name": "InfraWave Technologies",
+        "description": "InfraWave Technologies delivers reliable DevOps and cloud infrastructure solutions.",
+        "contactEmail": "devops@infrawave.tech",
+        "contactPhone": "514-555-0186"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Junior Web Developer",
+      "location": "Winnipeg, MB",
+      "type": "Internship",
+      "salary": "$20/hr",
+      "description": "Support development teams while learning real-world workflows.",
+      "responsibilities": [
+        "Fix bugs",
+        "Build components",
+        "Assist senior developers",
+        "12345"
+      ],
+      "requirements": [
+        "Basic HTML/CSS",
+        "JavaScript fundamentals",
+        "aaaaa"
+      ],
+      "company": {
+        "name": "LaunchCode Studio",
+        "description": "LaunchCode Studio helps junior developers grow through mentorship-driven projects.",
+        "contactEmail": "interns@launchcodestudio.ca",
+        "contactPhone": "204-555-0163"
+      }
+    },
+    {
+      "id": 8,
+      "type": "Full Time",
+      "title": "Product Manager",
+      "location": "Ottawa, ON",
+      "salary": "$95,000 - $120,000/year",
+      "description": "Lead product vision and execution across teams.",
+      "responsibilities": [
+        "Create product roadmaps",
+        "Manage stakeholders",
+        "Define feature requirements"
+      ],
+      "requirements": [
+        "Agile methodology",
+        "Leadership skills"
+      ],
+      "company": {
+        "name": "GovTech Innovations",
+        "description": "GovTech Innovations builds digital solutions for public-sector organizations.",
+        "contactEmail": "careers@govtechinnovations.ca",
+        "contactPhone": "613-555-0127"
+      }
+    },
+    {
+      "id": 9,
+      "type": "Part Time",
+      "title": "Technical Support Specialist",
+      "location": "Halifax, NS",
+      "salary": "$25/hr",
+      "description": "Provide technical support to customers and internal teams.",
+      "responsibilities": [
+        "Handle support tickets",
+        "Troubleshoot issues",
+        "Maintain documentation"
+      ],
+      "requirements": [
+        "Strong communication skills",
+        "Technical troubleshooting"
+      ],
+      "company": {
+        "name": "Atlantic Support Services",
+        "description": "Atlantic Support Services offers customer-focused IT support solutions.",
+        "contactEmail": "support@atlanticservices.ca",
+        "contactPhone": "902-555-0191"
+      }
+    }
+  ]
+}
